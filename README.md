@@ -82,6 +82,7 @@ If the number of arguments is not equal to two, an error message will display, a
 
 
 **Question 3(d) (15 marks)**
+
 A documentation (with appropriate screenshots and explanations) needs to be produced on the execution of the bash shell script with different conditions (e.g. correct number of arguments, incorrect number of arguments, etc.). Necessary checking needs to be done (e.g. check that the permissions of the file “userpassword” has changed, etc.).
 
 Appropriate comments should be added in the script to make it easier to understand.
