@@ -41,7 +41,12 @@ The bash shell script, which you need to name as tma.sh should have the followin
 ![alt text](https://github.com/Born2Student/ICT246_JULY_2022_TMA01/blob/main/Figure_1.png?raw=true)
 
 
+If the number of arguments is not equal to two, an error message will display, and the script will terminate.
 
+2. It will check whether the format of the “passwd” file is in the correct format. If the format is not correct, an error message will prompt, and the script will terminate.
 
+3. It will check whether the format of the “group” file is in the correct format. If the format is not correct, an error message will prompt, and the script will terminate.
+
+4. It will create a file “userpassword” with only the user accounts details (you can assume that the user account is having a shell of /bin/bash or /bin/sh)
 
 
