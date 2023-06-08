@@ -28,6 +28,18 @@
 - Implement system security and access control in Linux operating system
 
 
+**Question 3**
+
+Implement system security and access control in Linux operating system.
+
+Using Ubuntu OS, write and implement ONE (1) bash shell script (only one script should be written for whole Question 3). Copy the /etc/passwd file and /etc/group file into the same folder as your script and use the root account to execute the script. The script needs to execute on the “passwd” file and “group” file that have been copied to the folder, and not on the original /etc/passwd file and /etc/group file. That means some commands cannot be used in your script, such as id, getent, etc. You can assume that your script will not be executed in the /etc folder.
+
+The bash shell script, which you need to name as tma.sh should have the following specifications:
+
+**Question 3(a) (15 marks)**
+
+
+
 
 
 
