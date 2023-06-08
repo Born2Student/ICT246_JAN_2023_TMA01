@@ -73,8 +73,10 @@ If the number of arguments is not equal to two, an error message will display, a
   + largest user id among all the user accounts
 
 2. The following will then be changed:
- + Owner and group of “userpassword” file to user ‘ubuntu’
-  + Permissions of “userpassword” file to the owner can read, write and execute, and all others can only read
+
++ Owner and group of “userpassword” file to user ‘ubuntu’
+
++ Permissions of “userpassword” file to the owner can read, write and execute, and all others can only read
 
 3. The owner, group and permissions of the file “combinepwgp” will be appended to the “combinepwgp” file in the format of owner:group:permissions (note: this should not be displayed on the screen)
 
