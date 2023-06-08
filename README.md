@@ -49,4 +49,14 @@ If the number of arguments is not equal to two, an error message will display, a
 
 4. It will create a file “userpassword” with only the user accounts details (you can assume that the user account is having a shell of /bin/bash or /bin/sh)
 
+![alt text](https://github.com/Born2Student/ICT246_JULY_2022_TMA01/blob/main/Figure_2.png?raw=true)
+
+
+**Question 3(b) (15 marks)**
+
+
+
+
+
+
 
