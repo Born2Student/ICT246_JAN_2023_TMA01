@@ -58,7 +58,7 @@ If the number of arguments is not equal to two, an error message will display, a
 
 2. It will create a new file “combinepwgp” with the following format for each line:
 
-
+![alt text](https://github.com/Born2Student/ICT246_JULY_2022_TMA01/blob/main/Figure_3.png?raw=true)
 
 3. It will display the content of “combinepwgp” file on screen. The permissions and owner of the file “combinepwgp” will be displayed next on screen. (Note: the rest of information on the file, such as size, group, date, etc. should not be displayed)
 
