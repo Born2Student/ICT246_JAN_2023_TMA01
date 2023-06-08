@@ -38,7 +38,7 @@ The bash shell script, which you need to name as tma.sh should have the followin
 
 **Question 3(a) (15 marks)**
 
-![alt text](https://github.com/Born2Student/ICT233_JULY_2022_TMA01/blob/main/Figure_1.png?raw=true)
+![alt text](https://github.com/Born2Student/ICT246_JULY_2022_TMA01/blob/main/Figure_1.png?raw=true)
 
 
 
