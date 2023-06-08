@@ -54,9 +54,15 @@ If the number of arguments is not equal to two, an error message will display, a
 
 **Question 3(b) (15 marks)**
 
+1. The script will then display the content of “userpassword” file on screen
+
+2. It will create a new file “combinepwgp” with the following format for each line:
 
 
 
+3. It will display the content of “combinepwgp” file on screen. The permissions and owner of the file “combinepwgp” will be displayed next on screen. (Note: the rest of information on the file, such as size, group, date, etc. should not be displayed)
+
+4. It will then append the current date and time to the “combinepwgp” file in the format of DD-MM-YY:HH:mm (note: this should not be displayed on the screen)
 
 
 
