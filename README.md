@@ -1,6 +1,6 @@
-**# ICT246_JAN_2023_TMA01**
+# ICT246 - Operating Systems
 
-**ICT246 July Semester 2022 Tutor-Marked Assignment (TMA01)**
+# ICT246 Tutor-Marked Assignment (TMA01) July Semester 2023
 
 **Topics:**
 
